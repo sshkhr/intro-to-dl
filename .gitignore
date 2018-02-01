@@ -5,6 +5,10 @@ readonly
 __pycache__
 *.pyc
 
+# All models
+*.hdf5
+*.h5
+
 # week3
 102flowers.tgz
 imagelabels.mat
